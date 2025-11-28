@@ -1,0 +1,5 @@
+--- Executive Summary ---
+Total Campus Consumption: 119404.00 kWh
+Highest Consuming Building: Building_B
+Peak Load Time (Hour): 12:00
+Data processed for 3 buildings.
